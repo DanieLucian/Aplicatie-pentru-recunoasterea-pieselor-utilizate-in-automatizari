@@ -1,0 +1,1 @@
+# Aplicatie-pentru-recunoasterea-pieselor-utilizate-in-automatizari
