@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DeTecht</string>
+    <string name="image_caption_screen">Image Caption Screen</string>
+    <string name="device_details_screen">Device details Screen</string>
+    <string name="scan_history_screen">Scan History Screen</string>
+    <string name="gallery_select_screen">Gallery Select Screen</string>
+    <string name="classification_result_screen">Classification Result Screen</string>
+</resources>

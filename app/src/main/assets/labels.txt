@@ -1,0 +1,6 @@
+Arduino UNO
+Potentiometru
+SG90 MicroServo
+Senzor temperatura si umiditate DHT11
+Senzor ultrasonic HC-SR04
+Senzor de nivel al apei
