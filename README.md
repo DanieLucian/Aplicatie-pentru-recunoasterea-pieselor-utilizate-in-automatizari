@@ -1,15 +1,14 @@
-DeTecht - Aplicație mobilă pentru recunoașterea pieselor utilizate în automatizări
+DeTecht - Mobile application for recognizing parts used in automation
 
-Aplicația de Android dezvoltată în cadrul proiectului de diplomă folosește algoritmi de machine learning și rețele neuronale pentru a identifica dispozitive din domeniul automatizărilor și al electronicii (plăci de dezvoltare, senzori, etc). Odată identificat produsul, se vor extrage din baza de date informațiile relevante: o descriere generală, videoclipuri informative redate într-un player YoutTube integrat și legături către site-uri web de unde pot fi achiziționate pentru a reduce timpul de căutare și a evita riscul cumpărării unui produs necorespunzător.
+Uses machine learning algorithms and neural networks to identify devices in the field of automation and electronics (development boards, sensors, etc). 
+Once the product is identified, relevant information will be extracted from the database: a general description, informative videos played in an integrated YoutTube player and links to websites where they can be purchased in order to reduce search time and risk of buying from untrustworthy sources.
 
-Se poate fotografia pe loc dispozitivul pentru identificare sau selecta o imagine din galerie.
-De asemenea, toate scanările se salvează într-un istoric, iar utilizatorul are opțiunea de a șterge o scanare prin glisare sau pe toate la o apăsare de buton
+The user can snap a photo of the device for identification or select an image from the gallery. Also, all scans are saved in a history, and the user has the option to delete a scan by swiping or all at the touch of a button
 
-Tehnologii:
-
+Technologies:
   - Android Studio IDE
-  - MobileNet (retea neuronală convoluțională)
-  - Keras (crearea si antrenarea modelului de machine learning pentru clasificarea imaginilor)
-  - Jetpack Compose (interfațare grafică în Kotlin)
-  - Room Database (database desgin în Kotlin)
-  - MVVM architecture (Model-View-ViewModel)
+  - MobileNet (convolutional neural network)
+  - Keras (ML model creation and training)
+  - Jetpack Compose (Kotlin-based UI)
+  - Room Database (database desgin with Kotlin)
+  - MVVM architecture
